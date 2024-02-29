@@ -17,8 +17,7 @@ Table template made in React using resuable components
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository_url>
-
+   git clone https://github.com/harsh-cedcoss/template.git
 
 2. **Install dependencies::**
 
